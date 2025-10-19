@@ -1,5 +1,18 @@
-# Web_Scarping_task
 python task for Code alpha to get data from websites
+📘 Project: Practical Web Scraping with Python
+In this task, I implemented a hands-on project using Python’s BeautifulSoup library to perform Web Scraping — the process of automatically extracting data from websites.
+The project steps included:
+Sending HTTP requests to fetch web pages using requests.
+
+Parsing the HTML structure with BeautifulSoup to locate and extract the required data.
+
+Cleaning and transforming the extracted data into a structured format like a DataFrame.
+
+Saving the output into a CSV file for further analysis or visualization.
+
+
+
+
 📘 مشروع: تطبيق عملي على Web Scraping باستخدام Python
 
 في المهمة دي اشتغلت على تطبيق عملي لتقنيات استخلاص البيانات من الويب (Web Scraping) باستخدام مكتبة BeautifulSoup في بايثون.
